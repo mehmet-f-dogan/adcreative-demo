@@ -1,6 +1,7 @@
+// @ts-nocheck
+
 "use client"
 
-// @ts-nocheck
 import React, { useRef, useEffect } from "react";
 import "./styles.css";
 import CloseCircle from '../assets/svg/closeCircle.svg';
